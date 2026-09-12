@@ -1,0 +1,11 @@
+product,category,amount,quantity
+Laptop,Electronics,55000,2
+Mouse,Electronics,500,10
+Keyboard,Electronics,1200,5
+Chair,Furniture,3500,4
+Table,Furniture,7000,2
+Notebook,Stationery,50,100
+Pen,Stationery,10,200
+Monitor,Electronics,12000,3
+Sofa,Furniture,25000,1
+Desk,Furniture,8500,3

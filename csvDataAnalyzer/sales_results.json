@@ -1,0 +1,58 @@
+{
+    "stats": {
+        "sum": 112760.0,
+        "average": 11276.0,
+        "maximum": 55000.0,
+        "minimum": 10.0
+    },
+    "filtered_rows": [
+        {
+            "product": "Laptop",
+            "category": "Electronics",
+            "amount": "55000",
+            "quantity": "2"
+        },
+        {
+            "product": "Mouse",
+            "category": "Electronics",
+            "amount": "500",
+            "quantity": "10"
+        },
+        {
+            "product": "Keyboard",
+            "category": "Electronics",
+            "amount": "1200",
+            "quantity": "5"
+        },
+        {
+            "product": "Chair",
+            "category": "Furniture",
+            "amount": "3500",
+            "quantity": "4"
+        },
+        {
+            "product": "Table",
+            "category": "Furniture",
+            "amount": "7000",
+            "quantity": "2"
+        },
+        {
+            "product": "Monitor",
+            "category": "Electronics",
+            "amount": "12000",
+            "quantity": "3"
+        },
+        {
+            "product": "Sofa",
+            "category": "Furniture",
+            "amount": "25000",
+            "quantity": "1"
+        },
+        {
+            "product": "Desk",
+            "category": "Furniture",
+            "amount": "8500",
+            "quantity": "3"
+        }
+    ]
+}

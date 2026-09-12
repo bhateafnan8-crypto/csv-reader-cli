@@ -1,0 +1,9 @@
+item,category,price,stock
+Bottle,Kitchen,150,20
+Plate,Kitchen,abc,15
+Spoon,Kitchen,20,
+Glass,Kitchen,80,30
+Jug,Kitchen,,10
+Pan,Kitchen,900,5
+Bowl,Kitchen,120,notavailable
+Knife,Kitchen,300,8
